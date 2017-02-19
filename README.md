@@ -1,0 +1,1 @@
+A practice project to implement cache-breaking static frontend files.
